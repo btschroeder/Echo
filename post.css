@@ -1,0 +1,18 @@
+
+  .square:after {
+    content: "";
+    display: block;
+    padding-bottom: 200%;
+  }
+
+  #pro-button {
+      background-color: aqua;
+  }
+
+  #con-button {
+      background-color: yellow;
+  }
+
+  #vote-buttons {
+      margin-right: 5%;
+  }
